@@ -13,8 +13,8 @@ oct = oct(num)
 hex = hex(num)
 
 if tipo == 1:
-    print(f'o conversão em bináro é: {bi}')
+    print(f'\n o conversão em bináro é: {bi}\n')
 elif tipo == 2:
-    print(f'a conversão em octal é: {oct}')
+    print(f'\n a conversão em octal é: {oct}\n')
 else:
-    print(f'a conversão em hexadecimal é: {hex}')
+    print(f'\n a conversão em hexadecimal é: {hex}\n')
